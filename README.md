@@ -25,7 +25,15 @@ on highly scalable, asynchronous platform using
 * Message Systems Sparkpost
 
 
-** I am available for hire as permanent employment ** - (Remote or in Berlin, Germany) - contact me on LinkedIn or via Mail (see below)
+## I am available for hire as permanent employment
+Where?
+* Remote 
+* or in Berlin, Germany
+
+Contact me
+* on LinkedIn
+* or via Mail
+see below
 
 
 ## WHY?
