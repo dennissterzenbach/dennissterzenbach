@@ -6,7 +6,9 @@ I work as professional Software Engineer for about 20 years, mainly as Front-end
 
 🔭 I’m currently working mainily with vue.js, storyblok, node.js, express.js, GraphQL APIs on highly scalable, asynchronous platform using AWS + Kinesis + Lambda + ElasticSearch + Kibana + Beats...
 
->> I am available for hire as permanent employment <<
+
+** I am available for hire as permanent employment ** - (Remote or in Berlin, Germany) - contact me on LinkedIn or via Mail (see below)
+
 
 ## WHY?
 With what I do, I want to enrich people's lives and remove obstacles so that they are able to lead a full and happy life.
