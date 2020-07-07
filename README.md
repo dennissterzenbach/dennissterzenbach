@@ -4,7 +4,25 @@
 ## Who am I?
 I work as professional Software Engineer for about 20 years, mainly as Front-end and Full-Stack, but also as DevOps, Data Privacy Coordinator... Debugging the web since 1995.
 
-🔭 I’m currently working mainily with vue.js, storyblok, node.js, express.js, GraphQL APIs on highly scalable, asynchronous platform using AWS + Kinesis + Lambda + ElasticSearch + Kibana + Beats...
+🔭 I’m currently mainly working with a stack made of
+
+* vue.js
+* storyblok
+* node.js
+* express.js
+* GraphQL API
+
+on highly scalable, asynchronous platform using 
+
+* AWS Cloud
+* Google Places API
+* Kinesis
+* Lambda
+* ElasticSearch (Elastic Cloud on AWS)
+* Kibana
+* Beats
+* Monday.com
+* Message Systems Sparkpost
 
 
 ** I am available for hire as permanent employment ** - (Remote or in Berlin, Germany) - contact me on LinkedIn or via Mail (see below)
