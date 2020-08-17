@@ -48,5 +48,4 @@ I want to give everyone equal access to the functions and information needed. - 
 
 
 ## 📫 How to reach me:
-Mail: dennis.sterzenbach@gmail.com
 LinkedIn: https://www.linkedin.com/in/dennissterzenbach81
