@@ -25,17 +25,6 @@ on highly scalable, asynchronous platform using
 * Message Systems Sparkpost
 
 
-## I am available for hire as permanent employment
-Where?
-* Remote 
-* or in Berlin, Germany
-
-Contact me
-* on LinkedIn
-* or via Mail
-see below
-
-
 ## WHY?
 With what I do, I want to enrich people's lives and remove obstacles so that they are able to lead a full and happy life.
 
