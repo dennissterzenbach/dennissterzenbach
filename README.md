@@ -24,6 +24,9 @@
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
 <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+<img alt="Bash Script" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" />
+<img alt="YAML" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515" />
 </p>
 
 ### I love to implement highly scalable, asynchronous platform architectures using 
@@ -43,6 +46,10 @@
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+<img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" />
+<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" />
+<img alt="Playwright" src="https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white" />
+<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" />
 </p>
 
 ### Other tools and tech stack
@@ -62,6 +69,10 @@
 <img alt="Sparkpost" src="https://img.shields.io/badge/-Sparkpost-FA6423?style=flat&logo=Sparkpost&logoColor=white" />
 </p>
 
+### Video and audio things
+<p>
+  DaVinci Resolve Studio, DCTL, OBS, Companion, ATEM, Elgato Stream Deck, Hedge OffShot, Handbrake, Blackmagic Proxy generator, Tentacle, UltraSync Blue, Zoom, Tascam Audio Recorders, NeoFinder
+</p>
 
 ## WHY?
 With what I do, I want to enrich people's lives and remove obstacles so that they are able to lead a full and happy life.
