@@ -72,7 +72,7 @@
 
 ### Video and audio things
 <p>
-  DaVinci Resolve Studio, DCTL, OBS, Companion, ATEM, Elgato Stream Deck, Hedge OffShot, Handbrake, Blackmagic Proxy generator, Tentacle, UltraSync Blue, Zoom, Tascam Audio Recorders, NeoFinder
+  DaVinci Resolve Studio, DCTL, OBS, Companion, ATEM, Elgato Stream Deck, Hedge OffShot, Handbrake, Blackmagic Proxy generator, Tentacle, UltraSync Blue, Zoom, Tascam Audio Recorders, NeoFinder, Cubase Pro, Ableton Live
 </p>
 
 ## WHY?
