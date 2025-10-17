@@ -3,9 +3,10 @@
 
 ## Who am I?
 - Debugging the web since 1995.
-- I'm a professional Full Stack Software Engineer with about 20 years experience. 
+- I'm a professional Full Stack Software Engineer with about 25 years experience.
 - Focus: Web Technologies, DevOps, Cloud & Container Platforms and Technology Evangelism.
 - I work for [<img alt="DB Systel" src="https://img.shields.io/badge/-DB%20Systel-F01414?style=flat&logo=deutsche-bahn&logoColor=white" />](https://www.dbsystel.de/dbsystel)
+- I also do DP, Video editing, production, color stuff, audio mixing and mastering
 
 ### My Stack includes things like:
 
