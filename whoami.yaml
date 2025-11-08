@@ -5,6 +5,7 @@ metadata:
   namespace: Berlin
   pronouns: he/him
 spec:
-  job: Software Developer DevOps
+  job: Senior Specialist & Software Architect
+  mode: DevOps
   company: DB Systel GmbH
   social: https://mastodon.social/@nister
