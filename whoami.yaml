@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Human
+metadata:
+  name: Dennis Sterzenbach
+  namespace: Berlin
+  pronouns: he/him
+spec:
+  job: Software Developer DevOps
+  company: DB Systel GmbH
+  social: https://mastodon.social/@nister
